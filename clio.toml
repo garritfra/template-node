@@ -1,0 +1,14 @@
+title = "template-node"
+description = ""
+version = "0.1.0"
+license = "MIT"
+main = "src/main.clio"
+authors = [ "Your Name <you@example.com>" ]
+keywords = ""
+build = "build"
+
+[scripts]
+test = "No tests specified"
+
+[dependencies]
+stdlib = "latest"

@@ -1,0 +1,15 @@
+{
+  "name": "template-browser",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Your Name <you@example.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.clio.js"
+  },
+  "dependencies": {
+    "@clio/internals": "0.2.0"
+  }
+}
