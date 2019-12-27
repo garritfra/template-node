@@ -5,7 +5,9 @@ license = "MIT"
 main = "src/main.clio"
 authors = [ "Your Name <you@example.com>" ]
 keywords = ""
-build = "build"
+
+[build]
+directory = "build"
 target = "node"
 
 [scripts]
