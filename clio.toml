@@ -6,6 +6,7 @@ main = "src/main.clio"
 authors = [ "Your Name <you@example.com>" ]
 keywords = ""
 build = "build"
+target = "node"
 
 [scripts]
 test = "No tests specified"
