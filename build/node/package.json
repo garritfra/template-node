@@ -10,6 +10,6 @@
     "start": "node main.clio.js"
   },
   "dependencies": {
-    "@clio/internals": "0.2.0"
+    "@clio/internals": "0.1.0"
   }
 }
